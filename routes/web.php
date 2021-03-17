@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('empadd');
 });
 
-Route::get('empsearch', function () {
+Route::get('/empsearch', function () {
     return view('empsearch');
+});
+
+Route::get('/about', function () {
+    return view('about');
 });
