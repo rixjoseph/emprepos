@@ -20,13 +20,12 @@
 
         </p>
         </div>
-        <br>
         <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xll-4">
         
         </div>
 
         <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xll-4">
-        <br><br>
+        <br>
         <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis quod corporis consequatur repellat optio culpa suscipit impedit magnam cupiditate, quis amet perspiciatis quidem ad laborum nesciunt, obcaecati nostrum, explicabo cum?
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo ipsa maxime nihil sed amet soluta ratione. Debitis vitae totam voluptas facere nulla vero aperiam officiis illo reiciendis? Iusto, voluptatum laborum!
